@@ -3,7 +3,7 @@
 ##########################################
 # shellstorm.sh                          #
 # reverse/bind one-liner shell generator #
-#                          by 0bfxgh0st* #
+#                          by Trhacknon* #
 ##########################################
 
 COL_BLUE="\e[0;32m"
